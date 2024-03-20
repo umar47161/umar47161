@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umar47161
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me dm me
+- 💞️ I’m looking to collaborate on open source c++ projects
+- 📫 How to reach me umar47161@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
